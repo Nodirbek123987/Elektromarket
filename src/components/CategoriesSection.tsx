@@ -5,7 +5,7 @@ const CategoriesSection = () => {
   const { t } = useLang();
 
   const categories = [
-    { icon: Gauge, label: t("cat.measuring"), key: "Измерительные приборы" },
+    { icon: Gauge, label: t("cat.measuring"), key: "Измерительные приборы UNI-T" },
     { icon: Cable, label: t("cat.insulated"), key: "Изолированные наконечники" },
     { icon: Wrench, label: t("cat.tools"), key: "Инструменты" },
     { icon: Zap, label: t("cat.cable"), key: "Кабельные наконечники" },

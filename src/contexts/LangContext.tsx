@@ -36,7 +36,7 @@ const translations: Translations = {
   // Categories
   "cat.title": { ru: "Категории товаров", uz: "Mahsulot kategoriyalari" },
   "cat.all": { ru: "Все товары", uz: "Barcha mahsulotlar" },
-  "cat.measuring": { ru: "Измерительные приборы", uz: "O'lchov asboblari" },
+  "cat.measuring": { ru: "Измерительные приборы UNI-T", uz: "O'lchov asboblari UNI-T" },
   "cat.insulated": { ru: "Изолированные наконечники", uz: "Izolyatsiyalangan uchliklar" },
   "cat.tools": { ru: "Инструменты", uz: "Asboblar" },
   "cat.cable": { ru: "Кабельные наконечники", uz: "Kabel uchlari" },
